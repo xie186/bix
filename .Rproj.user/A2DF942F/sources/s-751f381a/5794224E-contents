@@ -1,0 +1,36 @@
+Word.Rmd
+========================================================
+author:
+date:
+autosize: true
+output:
+  powerpoint_presentation:
+    reference_doc: my-styles.pptx
+
+First Slide
+========================================================
+
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+g
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+English slang
+========================================================
+
+__Pull someone's leg__
+
+> deceive someone playfully; tease someone.
+
+
+

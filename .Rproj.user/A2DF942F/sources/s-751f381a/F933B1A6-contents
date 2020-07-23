@@ -1,0 +1,7 @@
+^\.Rproj\.user$
+\.Rproj$
+^\.gitignore$
+^\.travis\.yml$
+^bix\.Rcheck$
+^bix.*\.tar\.gz$
+^bix.*\.tgz$

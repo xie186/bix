@@ -1,0 +1,17 @@
+[
+    {
+        "file": "/cloud/project/src/reverse.c",
+        "file_last_write": 1572032467.0,
+        "definitions": [
+            {
+                "usr": "c:@F@reverse#*d#*I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "reverse(double *, int *, double *)",
+                "file": "/cloud/project/src/reverse.c",
+                "line": 1,
+                "column": 6
+            }
+        ]
+    }
+]

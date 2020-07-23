@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+rmini.Rcheck/
+rmini*.tar.gz
+rmini*.tgz
