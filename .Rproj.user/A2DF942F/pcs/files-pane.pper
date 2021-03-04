@@ -1,9 +1,9 @@
 {
-    "path" : "/cloud/project/english",
-    "sortOrder" : [
+    "path": "/cloud/project",
+    "sortOrder": [
         {
-            "ascending" : false,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": false
         }
     ]
 }
